@@ -1,7 +1,6 @@
 theme: jekyll-theme-leap-day
 remote_theme: pmarsceill/just-the-docs
 title: Petras Swissler
-baseurl: "https://pswiss/pswiss.github.io"
 logo: "/assets/images/header_logo.png"
 
 # Enable or disable the site search
