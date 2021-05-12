@@ -2,3 +2,4 @@ theme: jekyll-theme-leap-day
 remote_theme: pmarsceill/just-the-docs
 title: Petras Swissler
 logo: "/assets/images/header_logo.png"
+color_scheme: dark
