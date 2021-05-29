@@ -8,8 +8,6 @@ nav_order: 2
 
 ----
 
-Phone: (608) 630-1970	
-
 Email: pswissler@u.northwestern.edu
 
 &nbsp;
