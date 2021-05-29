@@ -7,6 +7,7 @@ nav_order: 2
 #Petras Swissler
 ----
 Phone: (608) 630-1970	
+
 Email: pswissler@u.northwestern.edu
 
 
@@ -20,9 +21,13 @@ Email: pswissler@u.northwestern.edu
 ----
 ##(Pursuing) Ph.D. Mechanical Engineering 
 _Northwestern University, Evanston, IL_
+
 Proposed Thesis: Large-Scale Robotic Self-Assembly Using Alignment-Agnostic Docking
+
 Successfully proposed September 2019
+
 GPA: *4.00* / 4.00
+
 Advisor: Michael Rubenstein
 
 ##M.S. Mechanical Engineering, Northwestern 
