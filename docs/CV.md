@@ -12,6 +12,8 @@ Phone: (608) 630-1970
 
 Email: pswissler@u.northwestern.edu
 
+&nbsp;
+&nbsp;
 
 # Research Interests
 
@@ -21,9 +23,12 @@ Email: pswissler@u.northwestern.edu
 - Large-Scale Multi-Agent Self-Assembly
 - Mechatronics
 
-#Education
+# Education
+
 ----
-##(Pursuing) Ph.D. Mechanical Engineering 
+
+## (Pursuing) Ph.D. Mechanical Engineering _(2016 - Present)_
+
 _Northwestern University, Evanston, IL_
 
 Proposed Thesis: Large-Scale Robotic Self-Assembly Using Alignment-Agnostic Docking
@@ -34,20 +39,25 @@ GPA: *4.00* / 4.00
 
 Advisor: Michael Rubenstein
 
-##M.S. Mechanical Engineering, Northwestern 
-_University, Evanston, IL_
+## M.S. Mechanical Engineering _(2016 - 2018)_
+
+_Northwestern University, Evanston, IL_
+
 Thesis: FireAnt: A Modular Robot with Full-Body Continuous Docks
-Successfully defended June 2018
+
 GPA: *4.00* / 4.00
+
 Advisor: Michael Rubenstein
 
-##B.S. Mechanical Engineering, Rose-Hulman 
-_Institute of Technology, Terre Haute, IN_
+## B.S. Mechanical Engineering _(2008 - 2012)_
+
+_Rose-Hulman Institute of Technology, Terre Haute, IN_
+
 Minors: Robotics, Electrical Engineering, Spanish
-Graduated 2008 – 2012
+
 GPA: *3.78* / 4.00
 
-#Publications and Scholarly Work
+# Publications and Scholarly Work
 ----
 (2021) Paper: ReactiveBuild: Environment-Adaptive Self-Assembly of Amorphous Structures
 2021 International Symposium on Distributed Autonomous Robotic Systems (DARS)
