@@ -31,24 +31,34 @@ Email: pswissler@u.northwestern.edu
 
 ### (Pursuing) Ph.D. Mechanical Engineering _(2016 - Present)_
 
-_Northwestern University, Evanston, IL_&nbsp;
-Proposed Thesis: Large-Scale Robotic Self-Assembly Using Alignment-Agnostic Docking&nbsp;
-Successfully proposed September 2019&nbsp;
-GPA: **4.00** / 4.00&nbsp;
+_Northwestern University, Evanston, IL_
+
+Proposed Thesis: Large-Scale Robotic Self-Assembly Using Alignment-Agnostic Docking
+
+Successfully proposed September 2019
+
+GPA: **4.00** / 4.00
+
 Advisor: Michael Rubenstein
 
 ### M.S. Mechanical Engineering _(2016 - 2018)_
 
-_Northwestern University, Evanston, IL_&nbsp;
-Thesis: FireAnt: A Modular Robot with Full-Body Continuous Docks&nbsp;
-GPA: **4.00** / 4.00&nbsp;
+_Northwestern University, Evanston, IL_
+
+Thesis: FireAnt: A Modular Robot with Full-Body Continuous Docks
+
+GPA: **4.00** / 4.00
+
 Advisor: Michael Rubenstein
 
 ### B.S. Mechanical Engineering _(2008 - 2012)_
 
-_Rose-Hulman Institute of Technology, Terre Haute, IN_&nbsp;
-Minors: Robotics, Electrical Engineering, Spanish&nbsp;
-GPA: **3.78** / 4.00&nbsp;
+_Rose-Hulman Institute of Technology, Terre Haute, IN_
+
+Minors: Robotics, Electrical Engineering, Spanish
+
+GPA: **3.78** / 4.00
+
 &nbsp;
 &nbsp;
 
@@ -58,7 +68,7 @@ GPA: **3.78** / 4.00&nbsp;
 
 ### (2021) Paper: ReactiveBuild: Environment-Adaptive Self-Assembly of Amorphous Structures
 
-_2021 International Symposium on Distributed Autonomous Robotic Systems (DARS)_2021_
+_2021 International Symposium on Distributed Autonomous Robotic Systems (DARS)_
 
 [Link to demonstration video](https://www.youtube.com/watch?v=YLXcj7RptPw)
 
@@ -66,7 +76,7 @@ Abstract: ReactiveBuild is an algorithm that enables swarms of robots to build a
 
 ### (2020) Paper: FireAnt3D: a 3D self-climbing robot towards non-latticed robotic self-assembly
 
-_2020 IEEE International Conference on Intelligent Robots and Systems (IROS)_
+_2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 3340-3347)_
 
 [Link to paper](http://users.eecs.northwestern.edu/~mrubenst/IROS2020.pdf)
 

@@ -61,14 +61,24 @@ Almost certainly, Agricola is the game that cemented Uwe Rosenberg as my favorit
 
 ![](https://cf.geekdo-images.com/hGWFm3hbMlCDsfCsauOQ4g__itemrep/img/MNyaVUlEsVQmbv3nObPl0SEd_TI=/fit-in/246x300/filters:strip_icc()/pic5375625.png)
 
+The first time I played Gaia Project my immediate reaction was "Wow. That was a very well put-together game." Everything felt clean and meaningful, though the rules overhead may have been a bit high. I don't think it really captures the feel of expanding through space, though that's not necessarily something I hold against the gamed. The game plays relatively quickly too (at least at 2 players).
+
 ### Freedom: The Underground Railroad
 
 ![](https://cf.geekdo-images.com/eEUq1DqkPjVdSTJT4wp1zg__itemrep/img/hCJpWyQcvctzwMIOarfwgiT6UgA=/fit-in/246x300/filters:strip_icc()/pic1478723.jpg)
+
+Such a heavy theme. I can imagine people getting turned off by it but I think it makes the game shine if only because it turns what would be relatively minor setbacks without the theme into something that *feels* quite a bit more impactful (e.g. having a slave be captured by a slave catcher). The game is perhaps a bit too puzzley, but it also makes the game entirely distinct from any other cooperative game I've played. 
 
 ### Android: Netrunner
 
 ![](https://cf.geekdo-images.com/2ewHIIG_TRq8bYlqk0jIMw__itemrep/img/Nz7z5Qk3fZ3R6IM14pDRg1D8XKE=/fit-in/246x300/filters:strip_icc()/pic3738560.jpg)
 
+I admire this game for how well it uses asymmetry to reinforce and enhance its theming. In this game, one player is a hacker and the other is a corporation in a cyberpunk world. Throughout the game, the corporation essentially serves as an adversarial dungeon-master for the runner, and it’s this relationship that makes the game really unique, and also means that you always care about what the other player is doing. Netrunner is highly interactive and requires a mix of strategy, tactics, and bluffing. Fantastic game. Shame it got discontinued.
+
+
+
 ### Great Western Trail
 
 ![](https://cf.geekdo-images.com/gDn7AhrDlmfCLSz9ZqoNFQ__itemrep/img/0FOms0QcPYvwEMWVXsy9p0FjGlM=/fit-in/246x300/filters:strip_icc()/pic5988511.jpg)
+
+Yeehaw! You are a rootin' tootin'... Manager of a cow delivery service herding cows across the old west as it stops being quite so old and gradually becomes more developed. Very high recommendation from me.
