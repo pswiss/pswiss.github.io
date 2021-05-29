@@ -9,6 +9,8 @@ permalink: /
 
 # Personal Website for Petras Swissler
 
+![](https://raw.githubusercontent.com/pswiss/pswiss.github.io/main/assets/images/Profile_Picture.jpg)
+
 ### About Me
 
 - Robotics Researcher
