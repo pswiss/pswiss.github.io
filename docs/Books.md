@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Board Games
+title: Books
 nav_order: 2
 ---
 
