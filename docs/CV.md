@@ -102,21 +102,31 @@ Designed a robotic test cell to perform gestures on a touch screen device using 
 
 ### (2012) Independent Study: Predicting Fiber Content by Mass in a Composite Material
 
+[Link to poster](https://github.com/pswiss/pswiss.github.io/blob/main/assets/pdfs/carbon_fiber_poster.pdf)
+
 Independent research performed at Rose-Hulman Institute of Technology under Dr. Richard Onyancha as part of the Independent Project/Research Opportunities Program. Performed experiments to determine best methods for extracting excess epoxy from layups of carbon fiber and fiberglass samples. Presented at the end of quarter symposium.
 
 ### (2012) Competition Design Report: Rose-Hulman Human Powered Vehicle Team: Carηot Cycle
+
+[Link to report](https://github.com/pswiss/pswiss.github.io/blob/main/assets/pdfs/rhit_asme_hpvc_2012.pdf)
 
 Design report submitted to the 2012 ASME Human Powered vehicle competition. Key vehicle innovations included a single-chain drivetrain, as well as a regenerative braking system. The report won first place out of 32 at the east coast competition, and third place out of 17 at the west coast competition.
 
 ### (2011) Competition Design Report: Rose-Hulman Human Powered Vehicle Team: Helios
 
+[Link to report](https://github.com/pswiss/pswiss.github.io/blob/main/assets/pdfs/rhit_asme_hpvc_2011.pdf)
+
 Design report submitted to the 2011 ASME Human Powered vehicle competition. Key vehicle innovations included a flexible axle between the two drive chains to eliminate torque steer. The report won second place out of 19 at the east coast competition, and first place out of 12 at the west coast competition.
 
 ### (2010) Independent Study: Flow Visualization of an Airzooka Blast
 
+[Link to poster](https://github.com/pswiss/pswiss.github.io/blob/main/assets/pdfs/flow_visualization_poster.pdf)
+
 Independent research performed at Rose-Hulman Institute of Technology under Dr. Michael Moorhead. Visualized the flow out of an air vortex cannon using smoke and a laser sheet. Presented at an end-of-quarter poster presentation.
 
 ### (2010) Competition Design Report: Rose-Hulman Human Powered Vehicle Team: Ragnarök
+
+[Link to report](https://github.com/pswiss/pswiss.github.io/blob/main/assets/pdfs/rhit_asme_hpvc_2010.pdf)
 
 Design report submitted to the 2010 ASME Human Powered vehicle competition. Key vehicle innovations included a tilting tricycle mechanism to allow for unassisted starts and stops. The report won first place out of 13 at the east coast competition, and first place out of 15 at the west coast competition.
 
@@ -132,6 +142,9 @@ Design report submitted to the 2010 ASME Human Powered vehicle competition. Key 
 _Northwestern University, Evanston, IL. Winter 2021_
 
 Professor: Nick Marchuk
+
+[Short Lecture: PI Controllers](https://www.youtube.com/watch?v=35LLY3t7fRA)
+[Short Lecture: Hex Files](https://www.youtube.com/watch?v=HK88j0ioBng)
 
 This class introduced students to the basics of mechatronics, such as the building and debugging of electromechanical circuits. Major responsibilities included assisting students in understanding the material and debugging their hardware and software. Other responsibilities included creating two short lecture videos and grading homework.
 
@@ -153,6 +166,7 @@ Dissertation proposal talk. _Northwestern University, Evanston, IL. September 20
 Master’s thesis talk. _Northwestern University, Evanston, IL. June 2018._
 - ASME HPVC Best Practices: Team history and advice to new teams.
 _Invited by ASME Human Powered Vehicle Challenge. Grove City, PA. June 2012._
+[Presentation video](https://www.youtube.com/watch?v=A0I6kzNI6NU)
 
 &nbsp;
 &nbsp;
@@ -178,6 +192,8 @@ _Invited by ASME Human Powered Vehicle Challenge. Grove City, PA. June 2012._
 ### Mechanical Engineer _(2012 - 2016)_
 
 Parametric Solutions Incorporated, Jupiter, FL
+
+[Company Website](https://psnet.com/)
 
 Responsibilities included management, product development, and engine instrumentation.
 - Managed and trained team of 10 engineers.
