@@ -31,34 +31,24 @@ Email: pswissler@u.northwestern.edu
 
 ### (Pursuing) Ph.D. Mechanical Engineering _(2016 - Present)_
 
-_Northwestern University, Evanston, IL_
-
-Proposed Thesis: Large-Scale Robotic Self-Assembly Using Alignment-Agnostic Docking
-
-Successfully proposed September 2019
-
-GPA: *4.00* / 4.00
-
+_Northwestern University, Evanston, IL_&nbsp;
+Proposed Thesis: Large-Scale Robotic Self-Assembly Using Alignment-Agnostic Docking&nbsp;
+Successfully proposed September 2019&nbsp;
+GPA: *4.00* / 4.00&nbsp;
 Advisor: Michael Rubenstein
 
 ### M.S. Mechanical Engineering _(2016 - 2018)_
 
-_Northwestern University, Evanston, IL_
-
-Thesis: FireAnt: A Modular Robot with Full-Body Continuous Docks
-
-GPA: *4.00* / 4.00
-
+_Northwestern University, Evanston, IL_&nbsp;
+Thesis: FireAnt: A Modular Robot with Full-Body Continuous Docks&nbsp;
+GPA: *4.00* / 4.00&nbsp;
 Advisor: Michael Rubenstein
 
 ### B.S. Mechanical Engineering _(2008 - 2012)_
 
-_Rose-Hulman Institute of Technology, Terre Haute, IN_
-
-Minors: Robotics, Electrical Engineering, Spanish
-
-GPA: *3.78* / 4.00
-
+_Rose-Hulman Institute of Technology, Terre Haute, IN_&nbsp;
+Minors: Robotics, Electrical Engineering, Spanish&nbsp;
+GPA: *3.78* / 4.00&nbsp;
 &nbsp;
 &nbsp;
 
