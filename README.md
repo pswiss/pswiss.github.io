@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Petras Swissler Homepage
 nav_order: 1
 description: "This is the website of Petras Swissler"
 permalink: /
