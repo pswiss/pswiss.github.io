@@ -4,15 +4,19 @@ title: Curriculum Vitae
 nav_order: 2
 ---
 
-#Petras Swissler
+# Petras Swissler
+
 ----
+
 Phone: (608) 630-1970	
 
 Email: pswissler@u.northwestern.edu
 
 
-#Research Interests
+# Research Interests
+
 ----
+
 - Multi-Robot Systems and Swarm Robotics
 - Large-Scale Multi-Agent Self-Assembly
 - Mechatronics
