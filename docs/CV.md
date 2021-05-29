@@ -34,21 +34,21 @@ Email: pswissler@u.northwestern.edu
 _Northwestern University, Evanston, IL_&nbsp;
 Proposed Thesis: Large-Scale Robotic Self-Assembly Using Alignment-Agnostic Docking&nbsp;
 Successfully proposed September 2019&nbsp;
-GPA: *4.00* / 4.00&nbsp;
+GPA: **4.00** / 4.00&nbsp;
 Advisor: Michael Rubenstein
 
 ### M.S. Mechanical Engineering _(2016 - 2018)_
 
 _Northwestern University, Evanston, IL_&nbsp;
 Thesis: FireAnt: A Modular Robot with Full-Body Continuous Docks&nbsp;
-GPA: *4.00* / 4.00&nbsp;
+GPA: **4.00** / 4.00&nbsp;
 Advisor: Michael Rubenstein
 
 ### B.S. Mechanical Engineering _(2008 - 2012)_
 
 _Rose-Hulman Institute of Technology, Terre Haute, IN_&nbsp;
 Minors: Robotics, Electrical Engineering, Spanish&nbsp;
-GPA: *3.78* / 4.00&nbsp;
+GPA: **3.78** / 4.00&nbsp;
 &nbsp;
 &nbsp;
 
@@ -144,6 +144,7 @@ _Northwestern University, Evanston, IL. Winter 2021_
 Professor: Nick Marchuk
 
 [Short Lecture: PI Controllers](https://www.youtube.com/watch?v=35LLY3t7fRA)
+
 [Short Lecture: Hex Files](https://www.youtube.com/watch?v=HK88j0ioBng)
 
 This class introduced students to the basics of mechatronics, such as the building and debugging of electromechanical circuits. Major responsibilities included assisting students in understanding the material and debugging their hardware and software. Other responsibilities included creating two short lecture videos and grading homework.
