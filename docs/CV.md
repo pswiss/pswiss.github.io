@@ -5,28 +5,21 @@ nav_order: 1
 ---
 
 # Petras Swissler
-
 ----
-
 email: petrasswissler2022@u.northwestern.edu
 
 website: pswiss.github.io
 
 &nbsp;
-&nbsp;
 
 # Research Interests
-
 ----
- 
 - Multi-Robot Systems and Swarm Robotics
 - Large-Scale Multi-Agent Self-Assembly
 - Mechatronics
 
 # Education
-
 ----
-
 ### (Pursuing) Ph.D. Mechanical Engineering
 
 _Northwestern University, Evanston, IL_
@@ -64,9 +57,7 @@ GPA: 3.78 / 4.0
 &nbsp;
 
 # Peer-Reviewed Publications 
-
 ----
-
 - **Petras Swissler** and  Michael Rubenstein. “ReactiveBuild: Environment-Adaptive Self-Assembly of Amorphous Structures.” _2021 International Symposium on Distributed Autonomous Robotic Systems (DARS)._
 
 - **Petras Swissler** and Michael Rubenstein. “FireAnt3D: a 3D self-climbing robot towards non-latticed robotic self-assembly.” _2020 IEEE International Conference on Intelligent Robots and Systems (IROS)._
@@ -77,9 +68,7 @@ GPA: 3.78 / 4.0
 &nbsp;
 
 # Professional Appointments
-
 ----
-
 **Teaching Assistant**
 
 Northwestern University. Evanston, IL
@@ -96,17 +85,13 @@ Parametric Solutions Incorporated. Jupiter, FL.
 &nbsp;
 
 # Awards and Notable Achievements
-
 ----
-
 - _2019_ Provisional Patent: Method and System for Docking Robotic Components 
 - _2016_ Murphy Fellowship
 - _2010, 2011, 2012_ 1st Place Overall, ASME HPVC Competition: 				         
 
 # Invited Talks
-
 ----
-
 - “FireAnt3D: a 3D self-climbing robot towards non-latticed robotic self-assembly” Invited by Chicago-area Robotics and Automation Society. July 2020.
 
 - “Climbing Over the Bodies of Your Peers: The Locomotive Challenges of Robotic Self-Assembly.” Invited by the Mechanical Engineering Graduate Student Society. September 2019.
@@ -114,9 +99,7 @@ Parametric Solutions Incorporated. Jupiter, FL.
 - “ASME HPVC Best Practices: Team History and Advice to New Teams.” Invited by ASME Human Powered Vehicle Challenge. June 2012.
 
 # Professional and Community Service
-
 ----
-
 ### Reviewer:
 
 - Autonomous Robots
