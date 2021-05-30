@@ -67,7 +67,7 @@ GPA: 3.78 / 4.0
 &nbsp;
 &nbsp;
 
-# Professional Appointments
+# Employment
 ----
 **Teaching Assistant**
 
