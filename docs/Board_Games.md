@@ -12,6 +12,17 @@ One of my main hobbies is board games.
 The thing I like best in a game is the ability to come up with intricate plans that may or may not pay off. 
 Whether I win or not is almost entirely irrelevant to me; I'm much more driven by the intrinsic reward of coming up with these (oftentimes dumb) strategies, though it does feel really good when they actually work.
 
+
+
+&nbsp;
+&nbsp;
+
+# My Collection
+
+----
+
+![](https://raw.githubusercontent.com/pswiss/pswiss.github.io/main/assets/images/Game_Collection.jpg)
+
 [My BoardGameGeek profile](https://boardgamegeek.com/user/pswissler)
 
 &nbsp;
