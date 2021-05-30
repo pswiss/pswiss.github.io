@@ -73,31 +73,31 @@ Designed a robotic test cell to perform gestures on a touch screen device using 
 
 ### (2012) Independent Study: Predicting Fiber Content by Mass in a Composite Material
 
-[Link to poster](https://github.com/pswiss/pswiss.github.io/blob/main/assets/pdfs/carbon_fiber_poster.pdf){:target="_blank"}
+[Link to poster](https://github.com/pswiss/pswiss.github.io/raw/main/assets/pdfs/carbon_fiber_poster.pdf){:target="_blank"}
 
 Independent research performed at Rose-Hulman Institute of Technology under Dr. Richard Onyancha as part of the Independent Project/Research Opportunities Program. Performed experiments to determine best methods for extracting excess epoxy from layups of carbon fiber and fiberglass samples. Presented at the end of quarter symposium.
 
 ### (2012) Competition Design Report: Rose-Hulman Human Powered Vehicle Team: Carηot Cycle
 
-[Link to report](https://github.com/pswiss/pswiss.github.io/blob/main/assets/pdfs/rhit_asme_hpvc_2012.pdf){:target="_blank"}
+[Link to report](https://github.com/pswiss/pswiss.github.io/raw/main/assets/pdfs/rhit_asme_hpvc_2012.pdf){:target="_blank"}
 
 Design report submitted to the 2012 ASME Human Powered vehicle competition. Key vehicle innovations included a single-chain drivetrain, as well as a regenerative braking system. The report won first place out of 32 at the east coast competition, and third place out of 17 at the west coast competition.
 
 ### (2011) Competition Design Report: Rose-Hulman Human Powered Vehicle Team: Helios
 
-[Link to report](https://github.com/pswiss/pswiss.github.io/blob/main/assets/pdfs/rhit_asme_hpvc_2011.pdf){:target="_blank"}
+[Link to report](https://github.com/pswiss/pswiss.github.io/raw/main/assets/pdfs/rhit_asme_hpvc_2011.pdf){:target="_blank"}
 
 Design report submitted to the 2011 ASME Human Powered vehicle competition. Key vehicle innovations included a flexible axle between the two drive chains to eliminate torque steer. The report won second place out of 19 at the east coast competition, and first place out of 12 at the west coast competition.
 
 ### (2010) Independent Study: Flow Visualization of an Airzooka Blast
 
-[Link to poster](https://github.com/pswiss/pswiss.github.io/blob/main/assets/pdfs/flow_visualization_poster.pdf){:target="_blank"}
+[Link to poster](https://github.com/pswiss/pswiss.github.io/raw/main/assets/pdfs/flow_visualization_poster.pdf){:target="_blank"}
 
 Independent research performed at Rose-Hulman Institute of Technology under Dr. Michael Moorhead. Visualized the flow out of an air vortex cannon using smoke and a laser sheet. Presented at an end-of-quarter poster presentation.
 
 ### (2010) Competition Design Report: Rose-Hulman Human Powered Vehicle Team: Ragnarök
 
-[Link to report](https://github.com/pswiss/pswiss.github.io/blob/main/assets/pdfs/rhit_asme_hpvc_2010.pdf){:target="_blank"}
+[Link to report](https://github.com/pswiss/pswiss.github.io/raw/main/assets/pdfs/rhit_asme_hpvc_2010.pdf){:target="_blank"}
 
 Design report submitted to the 2010 ASME Human Powered vehicle competition. Key vehicle innovations included a tilting tricycle mechanism to allow for unassisted starts and stops. The report won first place out of 13 at the east coast competition, and first place out of 15 at the west coast competition.
 
