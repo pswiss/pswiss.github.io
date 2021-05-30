@@ -21,6 +21,7 @@ My rating system:
 
 ----
 
+- **Things Fall Apart**		by Chinua Achebe **(5/5)**
 - **Little Women**  		by Louisa May Alcott **(5/5)**
 &nbsp;
 &nbsp;
@@ -115,6 +116,7 @@ My rating system:
 - **Fire & Blood** 			by George R. R.  Martin (3/5)
 &nbsp;
 - **1984** 					by George Orwell (4/5)
+- **Animal Farm** 			by George Orwell **(5/5)**
 &nbsp;
 - **The Long War** 			(Book 2 of the Long Earth Series) by Terry Pratchett (3/5)
 - **The Long Earth** 		(Book 1 of the Long Earth Series) by Terry Pratchett (4/5)
