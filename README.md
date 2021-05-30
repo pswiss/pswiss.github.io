@@ -22,3 +22,5 @@ permalink: /
 My research focuses on how to tackle the challenge of robotic self-assembly through the use of novel attachment mechanisms and robot design. 
 It is my belief that successful robotic self-assembly requires a move away from the discretized structures which are near-universal in most self-assembling robotic systems. 
 It is my hope that my research will enable self-assembling robots to form ad hoc complex and useful structures.
+
+[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=rqskTn8AAAAJ)
