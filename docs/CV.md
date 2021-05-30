@@ -4,6 +4,8 @@ title: Curriculum Vitae
 nav_order: 2
 ---
 
+[Download a PDF of this CV](https://github.com/pswiss/pswiss.github.io/raw/main/assets/pdfs/Swissler_CV_20210530.pdf){:target="_blank"}
+
 # Petras Swissler
 ----
 email: petrasswissler2022@u.northwestern.edu

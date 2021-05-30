@@ -23,4 +23,6 @@ My research focuses on how to tackle the challenge of robotic self-assembly thro
 It is my belief that successful robotic self-assembly requires a move away from the discretized structures which are near-universal in most self-assembling robotic systems. 
 It is my hope that my research will enable self-assembling robots to form ad hoc complex and useful structures.
 
-[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=rqskTn8AAAAJ)
+[Download my CV](https://github.com/pswiss/pswiss.github.io/raw/main/assets/pdfs/Swissler_CV_20210530.pdf){:target="_blank"}
+
+[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=rqskTn8AAAAJ){:target="_blank"}
