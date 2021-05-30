@@ -90,7 +90,7 @@ Parametric Solutions Incorporated. Jupiter, FL.
 ----
 - _2019_ Provisional Patent: Method and System for Docking Robotic Components 
 - _2016_ Murphy Fellowship
-- _2010, 2011, 2012_ 1st Place Overall, ASME HPVC Competition: 				         
+- _2010, 2011, 2012_ 1st Place Overall, ASME HPVC Competition				         
 
 # Invited Talks
 ----
