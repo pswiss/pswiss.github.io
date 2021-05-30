@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research and Publications
-nav_order: 4
+nav_order: 3
 ---
 
 # Teaching Experience
