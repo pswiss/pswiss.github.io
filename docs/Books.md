@@ -23,7 +23,7 @@ My rating system:
 
 - **Things Fall Apart**		by Chinua Achebe **(5/5)**
 - **Little Women**  		by Louisa May Alcott **(5/5)**
-<p>&nbsp;</p>
+<p></p>
 - **Foundation and Earth** 	(Book 7 of the Foundation Series) by Isaac Asimov (4/5)
 - **Foundation's Edge** 	(Book 6 of the Foundation Series) by Isaac Asimov (4/5)
 - **Second Foundation** 	(Book 5 of the Foundation Series) by Isaac Asimov (4/5)
