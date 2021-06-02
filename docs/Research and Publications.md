@@ -14,9 +14,9 @@ _Northwestern University, Evanston, IL. Winter 2021_
 
 Professor: Nick Marchuk
 
-[Short Lecture: PI Controllers](https://www.youtube.com/watch?v=35LLY3t7fRA){:target="_blank"}
+[Short Lecture: PI Controllers](https://www.youtube.com/watch?v=35LLY3t7fRA){:target="_blank"} (2m)
 
-[Short Lecture: Hex Files](https://www.youtube.com/watch?v=HK88j0ioBng){:target="_blank"}
+[Short Lecture: Hex Files](https://www.youtube.com/watch?v=HK88j0ioBng){:target="_blank"} (4m)
 
 This class introduced students to the basics of mechatronics, such as the building and debugging of electromechanical circuits. Major responsibilities included assisting students in understanding the material and debugging their hardware and software. Other responsibilities included creating two short lecture videos and grading homework.
 
@@ -31,7 +31,11 @@ This class introduced students to the basics of mechatronics, such as the buildi
 
 _2021 International Symposium on Distributed Autonomous Robotic Systems (DARS)_
 
-[Link to demonstration video](https://www.youtube.com/watch?v=YLXcj7RptPw){:target="_blank"}
+[Link to paper](https://robotics.northwestern.edu/documents/publications/2021dars_pswissler.pdf){:target="_blank"}
+
+[Link to demonstration video](https://www.youtube.com/watch?v=YLXcj7RptPw){:target="_blank"} (3m)
+
+[Link to talk video](https://youtu.be/kOQ2upp8Y2g){:target="_blank"} (22m)
 
 Abstract: ReactiveBuild is an algorithm that enables swarms of robots to build a variety of robust, environment-adaptive structures without pre-planning. Robots form structures by climbing their peers until either reaching a point closest to a goal location or until a neighboring robot recruits it for structural reinforcement. This contrasts with typical approaches to robotic self-assembly which generally seek to form some a priori shape. This paper demonstrates a simulated swarm of FireAnt3D robots using ReactiveBuild to form towers, chains, cantilevers, and bridges in three-dimensional environments.
 
@@ -41,9 +45,9 @@ _2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
 [Link to paper](http://users.eecs.northwestern.edu/~mrubenst/IROS2020.pdf){:target="_blank"}
 
-[Link to demonstration video](https://www.youtube.com/watch?v=GKR5wpANZkU){:target="_blank"}
+[Link to demonstration video](https://www.youtube.com/watch?v=GKR5wpANZkU){:target="_blank"} (1m)
 
-[Link to presentation video](https://www.youtube.com/watch?v=J-hUORZm1nE){:target="_blank"}
+[Link to presentation video](https://www.youtube.com/watch?v=J-hUORZm1nE){:target="_blank"} (14m)
 
 Abstract: Robotic self-assembly allows robots to join to form useful, on-demand structures. Unfortunately, the methods employed by most self-assembling robotic swarms compromise this promise of adaptability through their use of fixed docking locations, which impair a swarm’s ability to handle imperfections in the structural lattice resulting from load deflection or imperfect robot manufacture; these concerns worsen as swarm size increases. Inspired by the amorphous structures built by cells and social insects, FireAnt3D uses a novel docking mechanism, the 3D continuous dock, to attach to like robots regardless of alignment. FireAnt3D demonstrates the use of the 3D continuous docks, as well as how a robot can use such docks to connect to like robots and locomote over arbitrary 3D arrangements of its peers. The research outlined in this paper presents a profoundly different approach to docking and locomotion during self-assembly and addresses longstanding challenges in the field of robotic self-assembly.
 
@@ -61,9 +65,9 @@ _2018 IEEE International Conference on Robotics and Automation (ICRA) (pp. 6812-
 
 [Link to Paper](http://users.eecs.northwestern.edu/~mrubenst/ICRA18_fireant.pdf){:target="_blank"}
 
-[Link to demonstration video](https://www.youtube.com/watch?v=zhM36h7zM1A){:target="_blank"}
+[Link to demonstration video](https://www.youtube.com/watch?v=zhM36h7zM1A){:target="_blank"} (3m)
 
-[Link to robot assembly video](https://www.youtube.com/watch?v=j9pq6iwgxvA){:target="_blank"}
+[Link to robot assembly video](https://www.youtube.com/watch?v=j9pq6iwgxvA){:target="_blank"} (8s)
 
 Abstract: Nature offers many examples of organisms coming together to form self-assembling structures. The attachment methods these organisms employ allow them to grab onto others’ bodies, often without need for specific alignment or orientation, an ability absent from most existing robotic self-assembling structures, which require complicated sensing and specific alignment. This paper presents FireAnt, a modular 2D robot that demonstrates full-body continuous docks, an attachment mechanism able to attach anywhere onto other robots at any orientation, eliminating the need for alignment mechanisms and complex sensors. Such docks allow FireAnt to climb over copies of itself, something critical to self-assembling structures. This paper first discusses the design of FireAnt before presenting test results that show the strength and reliability of the continuous docks and demonstrate FireAnt’s ability to traverse an environment consisting of inert FireAnt robots. The work presented in this paper provides a docking mechanism that can minimize the mechanical complexity of modular robots and will allow the creation of swarms of rigid and adaptable self-assembling structures.
 
