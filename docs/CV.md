@@ -88,6 +88,7 @@ Parametric Solutions Incorporated. Jupiter, FL.
 
 # Awards and Notable Achievements
 ----
+- _2021_ Best Student Paper Award: ReactiveBuild: Environment-Adaptive Self-Assembly of Amorphous Structures
 - _2019_ Provisional Patent: Method and System for Docking Robotic Components 
 - _2016_ Murphy Fellowship
 - _2010, 2011, 2012_ 1st Place Overall, ASME HPVC Competition				         

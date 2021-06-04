@@ -29,6 +29,8 @@ This class introduced students to the basics of mechatronics, such as the buildi
 
 ### (2021) Paper: ReactiveBuild: Environment-Adaptive Self-Assembly of Amorphous Structures
 
+*Winner: Best Student Paper*
+
 _2021 International Symposium on Distributed Autonomous Robotic Systems (DARS)_
 
 [Link to paper](https://robotics.northwestern.edu/documents/publications/2021dars_pswissler.pdf){:target="_blank"}
