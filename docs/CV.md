@@ -60,7 +60,7 @@ GPA: 3.78 / 4.0
 
 # Peer-Reviewed Publications 
 ----
-- **Petras Swissler** and  Michael Rubenstein. “ReactiveBuild: Environment-Adaptive Self-Assembly of Amorphous Structures.” _2021 International Symposium on Distributed Autonomous Robotic Systems (DARS)._
+- **Petras Swissler** and  Michael Rubenstein. “ReactiveBuild: Environment-Adaptive Self-Assembly of Amorphous Structures.” _2021 International Symposium on Distributed Autonomous Robotic Systems (DARS)._ **(Winner: Best student paper)**
 
 - **Petras Swissler** and Michael Rubenstein. “FireAnt3D: a 3D self-climbing robot towards non-latticed robotic self-assembly.” _2020 IEEE International Conference on Intelligent Robots and Systems (IROS)._
 
