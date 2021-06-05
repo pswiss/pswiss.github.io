@@ -75,7 +75,7 @@ GPA: 3.78 / 4.0
 
 Northwestern University. Evanston, IL
 
-"ME 333: Introduction to Mechatronics" Winter 2021.
+     "ME 333: Introduction to Mechatronics" Winter 2021.
 
 &nbsp;
 
