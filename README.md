@@ -9,7 +9,7 @@ permalink: /
 
 # Personal Website for Petras Swissler
 
-![](https://raw.githubusercontent.com/pswiss/pswiss.github.io/main/assets/images/Profile_Picture.jpg)
+![<img src="Profile_Picture.jpg" width="600"/>](https://raw.githubusercontent.com/pswiss/pswiss.github.io/main/assets/images/Profile_Picture.jpg)
 
 ### About Me
 
