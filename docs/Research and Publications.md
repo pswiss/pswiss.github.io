@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research and Publications
+title: Research, Publications, and Teaching
 nav_order: 3
 ---
 
@@ -19,6 +19,11 @@ Professor: Nick Marchuk
 [Short Lecture: Hex Files](https://www.youtube.com/watch?v=HK88j0ioBng){:target="_blank"} (4m)
 
 This class introduced students to the basics of mechatronics, such as the building and debugging of electromechanical circuits. Major responsibilities included assisting students in understanding the material and debugging their hardware and software. Other responsibilities included creating two short lecture videos and grading homework.
+
+Quotes from student evaluations:
+- "I would like to shout out the TAs Dan and Petras. They were excellent! Best TAs I have seen"
+- "This was definitely a very useful class, and the TAs and Prof. Marchuk were very helpful in debugging code and helping to understand concepts"
+- "The teaching team is wonderful!!"
 
 &nbsp;
 &nbsp;
