@@ -69,6 +69,8 @@ My rating system:
 <p></p>
 - **A Brave New World** 	by Aldous Huxley (3/5)
 <p></p>
+- **The Path of Daggers** 		(Book 8 of the Wheel of Time) by Robert Jordan (4/5)
+- **A Crown of Swords** 		(Book 7 of the Wheel of Time) by Robert Jordan (4/5)
 - **Lord of Chaos** 		(Book 6 of the Wheel of Time) by Robert Jordan (4/5)
 - **The Fires of Heaven** 	(Book 5 of the Wheel of Time) by Robert Jordan (4/5)
 - **The Shadow Rising** 	(Book 4 of the Wheel of Time) by Robert Jordan (4/5)
@@ -134,6 +136,8 @@ My rating system:
 - **Return of the King** 	(Part 3 of The Lord of the Rings) by J.R.R. Tolkien (4/5)
 - **The Two Towers** 		(Part 2 of The Lord of the Rings) by J.R.R. Tolkien (4/5)
 - **The Fellowship of the Ring** (Part 1 of The Lord of the Rings) by J.R.R. Tolkien **(5/5)**
+<p></p>
+- **The Guns of August** by Barbara W. Tuchman. First half: **(5/5)**    Second half: (3/5)
 <p></p>
 - **Slaughterhouse Five** 	by Kurt Vonnegut **(5/5)**
 - **Cat's Cradle** 			by Kurt Vonnegut **(5/5)**
