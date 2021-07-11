@@ -87,7 +87,6 @@ Such a heavy theme. I can imagine people getting turned off by it but I think it
 I admire this game for how well it uses asymmetry to reinforce and enhance its theming. In this game, one player is a hacker and the other is a corporation in a cyberpunk world. Throughout the game, the corporation essentially serves as an adversarial dungeon-master for the runner, and it’s this relationship that makes the game really unique, and also means that you always care about what the other player is doing. Netrunner is highly interactive and requires a mix of strategy, tactics, and bluffing. Fantastic game. Shame it got discontinued.
 
 
-
 ### Great Western Trail
 
 ![](https://cf.geekdo-images.com/gDn7AhrDlmfCLSz9ZqoNFQ__itemrep/img/0FOms0QcPYvwEMWVXsy9p0FjGlM=/fit-in/246x300/filters:strip_icc()/pic5988511.jpg)

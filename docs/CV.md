@@ -16,9 +16,10 @@ website: pswiss.github.io
 
 # Research Interests
 ----
-- Multi-Robot Systems and Swarm Robotics
-- Large-Scale Multi-Agent Self-Assembly
+- Multi-robot systems and swarm robotics
+- Robotic self-assembly
 - Mechatronics
+- Behavior of social insects
 
 # Education
 ----
@@ -26,7 +27,7 @@ website: pswiss.github.io
 
 _Northwestern University, Evanston, IL_
 
-Proposed Thesis: Large-Scale Robotic Self-Assembly Using Alignment-Agnostic Docking (Successfully proposed September 2019)
+Proposed Thesis: Large-scale robotic self-assembly using alignment-agnostic docking (Successfully proposed September 2019)
 
 Advisor: Michael Rubenstein
 
@@ -39,7 +40,7 @@ GPA: 4.0 / 4.0
 
 _Northwestern University, Evanston, IL_
 
-Thesis: FireAnt: A Modular Robot with Full-Body Continuous Docks
+Thesis: FireAnt: A modular robot with full-body continuous docks
 
 Advisor: Michael Rubenstein
 
@@ -88,6 +89,7 @@ Parametric Solutions Incorporated. Jupiter, FL.
 
 # Awards and Notable Achievements
 ----
+- _2021_ McCormick School of Engineering Terminal Year Fellowship
 - _2021_ Best Student Paper Award: ReactiveBuild: Environment-Adaptive Self-Assembly of Amorphous Structures
 - _2019_ Provisional Patent: Method and System for Docking Robotic Components 
 - _2016_ Murphy Fellowship
@@ -121,7 +123,7 @@ Parametric Solutions Incorporated. Jupiter, FL.
 
 ### Outreach:
 
-- “Science in Your Community Center” (Volunteer Mentor). Evanston, IL. 2017 – Present 
 - “Day in the Life of a STEM-itist” (Presenter). Evanston, IL. 2020 – 2021
 - “Northwestern Splash” (Teacher, Treasurer, Secretary). Evanston, IL. 2016 – 2021
+- “Science in Your Community Center” (Volunteer Mentor). Evanston, IL. 2017 – 2020
 - “National Robotics Week” (Volunteer). Chicago, IL. 2019

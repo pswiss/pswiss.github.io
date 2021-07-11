@@ -20,3 +20,5 @@ Article appearing on the news site of the Northwestern Center for Robotics and B
 May 17, 2011
 
 Video released by Montana State University to highlight the human powered vehicle challenge. I was interviewed as the president of the Rose-Hulman Human Powered Vehicle Team 
+
+[Link to video](https://www.youtube.com/watch?v=R40MS2UNmpA)
