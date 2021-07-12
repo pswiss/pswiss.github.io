@@ -1,6 +1,6 @@
 ---
 layout: default
-title: In the news
+title: In the News
 nav_order: 5
 ---
 
