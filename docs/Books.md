@@ -46,7 +46,7 @@ My rating system:
 <p></p>
 - **Mockingjay** 			(Book 3 of the Hunger Games) by Suzanne Collins (1/5)
 - **Catching Fire** 		(Book 2 of the Hunger Games) by Suzanne Collins (2/5)
-- **The Hunger Games**  	(Book 2 of the Hunger Games) by Suzanne Collins (3/5)
+- **The Hunger Games**  	(Book 1 of the Hunger Games) by Suzanne Collins (3/5)
 <p></p>
 - **Heart of Darkness** 	by Joseph Conrad (3/5)
 <p></p>
@@ -69,6 +69,7 @@ My rating system:
 <p></p>
 - **A Brave New World** 	by Aldous Huxley (3/5)
 <p></p>
+- **Winter's Heart** 		(Book 9 of the Wheel of Time) by Robert Jordan (3/5)
 - **The Path of Daggers** 		(Book 8 of the Wheel of Time) by Robert Jordan (4/5)
 - **A Crown of Swords** 		(Book 7 of the Wheel of Time) by Robert Jordan (4/5)
 - **Lord of Chaos** 		(Book 6 of the Wheel of Time) by Robert Jordan (4/5)
@@ -116,6 +117,8 @@ My rating system:
 - **A Clash of Kings** 		(Book 2 of The Song of Ice and Fire) by George R. R.  Martin (4/5)
 - **A Game of Thrones** 	(Book 1 of The Song of Ice and Fire) by George R. R.  Martin **(5/5)**
 - **Fire & Blood** 			by George R. R.  Martin (3/5)
+<p></p>
+- **Dying of Whiteness**   by Jonathan Metzl (4/5)
 <p></p>
 - **1984** 					by George Orwell (4/5)
 - **Animal Farm** 			by George Orwell **(5/5)**
