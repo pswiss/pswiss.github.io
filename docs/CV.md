@@ -20,10 +20,12 @@ website: pswiss.github.io
 - Robotic self-assembly
 - Mechatronics
 - Behavior of social insects
+- Swarm-human interaction
+- Educational robotics
 
 # Education
 ----
-### (Pursuing) Ph.D. Mechanical Engineering
+### Ph.D. Mechanical Engineering (Expected June 2022)
 
 _Northwestern University, Evanston, IL_
 
@@ -70,8 +72,36 @@ GPA: 3.78 / 4.0
 &nbsp;
 &nbsp;
 
+# Awards and Notable Achievements
+----
+- _2021_ Patent Application: Method and System for Docking Robotic Components 
+- _2021_ McCormick School of Engineering Terminal Year Fellowship
+- _2021_ Best Student Paper Award: ReactiveBuild: Environment-Adaptive Self-Assembly of Amorphous Structures
+- _2016_ Murphy Fellowship
+- _2010, 2011, 2012_ 1st Place Overall, ASME HPVC Competition				
+
+&nbsp;
+&nbsp;
+
+# Teaching Experience
+----
+**Teaching Assistant** for ME 333: Introduction to Mechatronics (2021)
+
+**Volunteer Teacher** for Northwestern Splash outreach program
+
+&nbsp;
+&nbsp;
+
+
 # Employment
 ----
+**Graduate Research Assistant** 
+
+Northwestern University. Evanston, IL 2016 - Present
+
+&nbsp;
+
+
 **Teaching Assistant**
 
 Northwestern University. Evanston, IL
@@ -87,13 +117,7 @@ Parametric Solutions Incorporated. Jupiter, FL.
 &nbsp;
 &nbsp;
 
-# Awards and Notable Achievements
-----
-- _2021_ McCormick School of Engineering Terminal Year Fellowship
-- _2021_ Best Student Paper Award: ReactiveBuild: Environment-Adaptive Self-Assembly of Amorphous Structures
-- _2019_ Provisional Patent: Method and System for Docking Robotic Components 
-- _2016_ Murphy Fellowship
-- _2010, 2011, 2012_ 1st Place Overall, ASME HPVC Competition				         
+         
 
 # Invited Talks
 ----
@@ -123,6 +147,7 @@ Parametric Solutions Incorporated. Jupiter, FL.
 
 ### Outreach:
 
+- “Middle School Robotics Tournament” at U. Chicago Laboratory School (Judge). 2021
 - “Day in the Life of a STEM-itist” (Presenter). Evanston, IL. 2020 – 2021
 - “Northwestern Splash” (Teacher, Treasurer, Secretary). Evanston, IL. 2016 – 2021
 - “Science in Your Community Center” (Volunteer Mentor). Evanston, IL. 2017 – 2020
