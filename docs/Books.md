@@ -42,7 +42,9 @@ My rating system:
 - **The End of Eternity** 	by Isaac Asimov (4/5)
 - **The Gods Themselves**  	by Isaac Asimov (4/5)
 <p></p>
-- **The Alchemist**  		by Paulo Coelho **(5/5)**
+- **Pride and Prejudice**	by Jane Austen (2/5)
+<p></p>
+- **The Alchemist**  		by Paulo Coelho (4/5)
 <p></p>
 - **Mockingjay** 			(Book 3 of the Hunger Games) by Suzanne Collins (1/5)
 - **Catching Fire** 		(Book 2 of the Hunger Games) by Suzanne Collins (2/5)
@@ -69,6 +71,9 @@ My rating system:
 <p></p>
 - **A Brave New World** 	by Aldous Huxley (3/5)
 <p></p>
+- **The Gathering Storm**	(Book 12 of the Wheel of Time) by Robert Jordan and Brandon Sanderson(4/5)
+- **Knife of Dreams**		(Book 11 of the Wheel of Time) by Robert Jordan (4/5)
+- **Crossroads of Twilight** (Book 10 of the Wheel of Time) by Robert Jordan (4/5)
 - **Winter's Heart** 		(Book 9 of the Wheel of Time) by Robert Jordan (3/5)
 - **The Path of Daggers** 		(Book 8 of the Wheel of Time) by Robert Jordan (4/5)
 - **A Crown of Swords** 		(Book 7 of the Wheel of Time) by Robert Jordan (4/5)
@@ -98,6 +103,7 @@ My rating system:
 - **The Dead Zone** 		by Stephen King (3/5)
 - **Salem's Lot** 			by Stephen King (3/5)
 - **The Stand** 			by Stephen King (3/5)
+- **11/22/63**				by Stephen King	(2/5)
 - **The Outsider** 			by Stephen King (2/5)
 <p></p>
 - **Devil in the White City** by Erik Larson (3/5)
